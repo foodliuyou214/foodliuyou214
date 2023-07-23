@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=%E8%8F%B2%E6%8B%89%E4%BB%A3%E7%A0%81&pause=1000&color=154960&center=%E9%94%99%E8%AF%AF&vCenter=%E9%94%99%E8%AF%AF&repeat=%E7%9C%9F%E5%AE%9E&width=435&separator=%3C&lines=Console.Write(%E2%80%9CHey%2CWhat%E2%80%99s+up%3F%E2%80%9D);%3C+Debug.Log(%E2%80%9CI%E2%80%99m+Coding%E2%80%A6%E2%80%A6%E2%80%9D);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=%E8%8F%B2%E6%8B%89%E4%BB%A3%E7%A0%81&pause=1000&color=BEB53E&center=%E9%94%99%E8%AF%AF&vCenter=%E9%94%99%E8%AF%AF&repeat=%E7%9C%9F%E5%AE%9E&width=425&separator=%3C&lines=Console.Write(%E2%80%9CHey%2CWhat%E2%80%99s+up%3F%E2%80%9D);%3C+Debug.Log(%E2%80%9CI%E2%80%99m+Coding%E2%80%A6%E2%80%A6%E2%80%9D);)](https://git.io/typing-svg)
 
 ![Metrics](https://metrics.lecoq.io/foodliuyou214?template=classic&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
 
